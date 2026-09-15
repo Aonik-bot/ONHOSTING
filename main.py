@@ -41,20 +41,20 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '8909615022:AAFZruRTTcCBn4YDftaH_0PkoqlYxZ_uoVY'
+TOKEN = '8921054049:AAGbxoS88S_yhEqD9KztDPDMSZp95gBNRAg'
 OWNER_ID = 8886566344 # ADD YOUR USER ID 
 ADMIN_ID = 8886566344  # DON'T REPLACE IF REPLACE THEN BOT NOT WORKING 
-YOUR_USERNAME = '@onik_bot' # ADD YOUR USERNAME 
-UPDATE_CHANNEL = '@onik_boy' # ADD YOUR YOU CHANNEL USERNAME 
+YOUR_USERNAME = '@Aonikpriem_10X' # ADD YOUR USERNAME 
+UPDATE_CHANNEL = '@Aonikpriem_10X' # ADD YOUR YOU CHANNEL USERNAME 
 
 # Folder setup
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 UPLOAD_BOTS_DIR = os.path.join(BASE_DIR, 'upload_bots')
-IROTECH_DIR = os.path.join(BASE_DIR, 'inf')
+IROTECbb'IR = os.path.join(BASE_DIR, 'inf')
 DATABASE_PATH = os.path.join(IROTECH_DIR, 'bot_data.db')
 
 # File upload limits
-FREE_USER_LIMIT = 6
+FREE_USER_LIMIT =o'
 SUBSCRIBED_USER_LIMIT = 29
 ADMIN_LIMIT = 9999999
 OWNER_LIMIT = float('inf')
